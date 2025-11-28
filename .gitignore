@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+macro.json
